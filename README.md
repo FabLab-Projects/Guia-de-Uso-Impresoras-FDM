@@ -47,9 +47,9 @@
 
 ### **Configuración Específica por Modelo de Impresora:**
 
-- **Ender-3 V2**: Configuración estándar en Cura, adecuada para PLA y PETG.
+- **Ender-3 V2**: Configuración estándar en Cura, adecuada para PLA.
 - **Ender-3 Neo**: Similar a la V2, con mejoras en la nivelación de la cama. Asegurar que la nivelación automática esté habilitada.
-- **Ender-3 Pro S1**: Posee un extrusor directo para mayor precisión y compatibilidad con diferentes filamentos.
+- **Ender-3 Pro S1**: Posee un extrusor directo para mayor precisión y compatibilidad con diferentes filamentos como PETG y filamentos flexibles.
 
 ### **Consejos Adicionales:**
 
